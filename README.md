@@ -13,7 +13,7 @@ like: /your/wordlist.txt
 You Will See It Runs Successfully..
 Output Will Save Randomely Like For First Website Output Will Be 1.html
 
-### 2. Permanant Way:
+### 2. Permanent Way:
 
 For This You Have To Create A File Which Is `command.txt`
 
