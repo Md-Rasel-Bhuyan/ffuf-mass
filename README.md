@@ -8,9 +8,13 @@ You can use this two way
 `python ffuf-mass-v1.py`
 
 Give Your Site List.List Urls Should Be Contain Urls Like This Format https://site.com/
+
 Then Give Wordlist Full Path
+
 like: /your/wordlist.txt
+
 You Will See It Runs Successfully..
+
 Output Will Save Randomely Like For First Website Output Will Be 1.html
 
 ### 2. Permanent Way:
