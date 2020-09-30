@@ -29,4 +29,7 @@ You Can Add Also Your Own Command/Attribute Which You Use In FFUF But Don't Chan
 
 First `%s` Takes The Lines From The Site List File And Second One Is Save The Output Randomely
 
+# Demo:
+https://asciinema.org/a/362750
+
 # Happy Hacking!
