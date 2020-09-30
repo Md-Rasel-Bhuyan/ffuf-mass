@@ -1,0 +1,1 @@
+# ffuf-mass
