@@ -1,1 +1,0 @@
-ffuf -u %s -w /your/wordlist/path/word.txt -of html -o %s.html
